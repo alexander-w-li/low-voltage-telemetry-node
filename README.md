@@ -23,9 +23,6 @@ This project implements a low-voltage power monitoring system using an ESP32 and
 - INA219 VIN- → LED (positive)
 - LED → resistor → GND
 
-## Images
-![Setup](images/setup)
-
 ## Example Output
 Voltage: ~3.3V  
 Current: ~5–6 mA  
