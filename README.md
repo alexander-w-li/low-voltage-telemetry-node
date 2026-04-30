@@ -28,5 +28,9 @@ Voltage: ~3.3V
 Current: ~5–6 mA  
 Power: ~20 mW  
 
+## Challenges
+- Intermittent readings due to a poor VIN- solder joint, fixed via reflow
+- Breadboard row misalignment causing open circuit, fixed by verifying node-by-node
+
 ## Notes
 This project was used to validate low-voltage current sensing and basic telemetry functionality using a controlled load.
