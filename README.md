@@ -24,7 +24,7 @@ This project implements a low-voltage power monitoring system using an ESP32 and
 - LED → resistor → GND
 
 ## Images
-![Setup](images/setup.jpg)
+![Setup](images/setup)
 
 ## Example Output
 Voltage: ~3.3V  
